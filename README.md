@@ -115,9 +115,11 @@ Never upload your API key to GitHub.
 
 ---
 
-## 📸 Screenshots
+## 📸<img width="1616" height="923" alt="image" src="https://github.com/user-attachments/assets/dc3599b2-f8d9-4095-81a0-d115976bb4f5" />
+ Screenshots
 
 (Add screenshots of your application here.)
+<img width="1616" height="923" alt="Screenshot 2026-07-23 011034" src="https://github.com/user-attachments/assets/545ecb46-6231-4d65-8b09-51f0e195372e" />
 
 ---
 
